@@ -1,0 +1,25 @@
+{
+  "name": "eternaleecoin",
+  "version": "0.1.0",
+  "description": "A new, more secure, SafeMoon forked coin",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francesco95it/EternaleeCoin.git"
+  },
+  "keywords": [
+    "crypto",
+    "token",
+    "safemoon",
+    "eternalee"
+  ],
+  "author": "Eternalee Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francesco95it/EternaleeCoin/issues"
+  },
+  "homepage": "https://github.com/Francesco95it/EternaleeCoin#readme"
+}
